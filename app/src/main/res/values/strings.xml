@@ -1,0 +1,10 @@
+<resources>
+    <string name="Homework2">homework2</string>
+    <string name="TextViewOnImage">One of the most recognizable sites in the world</string>
+    <string name="TheColosseum">The Colosseum</string>
+    <string name="co">312</string>
+    <string name="txtBtn">Перейти</string>
+    <string name="edStyle">Ведите цифру</string>
+    <string name="buttonTwo">Поменять</string>
+
+</resources>
